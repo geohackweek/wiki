@@ -16,7 +16,7 @@ To get a copy of the tutorial contents on your local machine, clone the [github 
 $ git clone https://github.com/geohackweek/tutorial_contents.git
 ```
 
-This repo will contain all of the materials for GeoHackWeek 2018. In order for us to run the notebooks within each tutorial, we need to run Jupyter Notebook.
+This repo will contain all of the materials for GeoHackWeek 2019. In order for us to run the notebooks within each tutorial, we need to run Jupyter Notebook.
 
 ## Installing Jupyter Notebooks
 

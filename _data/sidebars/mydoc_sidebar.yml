@@ -3,7 +3,7 @@
 entries:
 - title: sidebar
   product: Geohackweek Wiki
-  version: 2018
+  version: 2019
   folders:
 
   - title:
@@ -34,10 +34,6 @@ entries:
 
     - title: Mission Statement
       url: /mission_statement.html
-      output: web, pdf
-
-    - title: Travel and Lodging
-      url: /travel_and_lodging.html
       output: web, pdf
 
   - title: Tutorials
