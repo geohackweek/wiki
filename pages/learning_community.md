@@ -1,3 +1,9 @@
+---
+title: Positive Learning Communities
+sidebar: mydoc_sidebar
+permalink: learning_community.html
+---
+
 # Creating a Learning Community for Inclusive Innovation
 
 What is a learning community? We believe that the complicated challenges emerging for scientists and society in the 21st century require us to go beyond traditional educational structures, and that fostering a welcoming [learning community](https://thesystemsthinker.com/the-emergence-of-learning-communities/) is one way we can address these challenges. For the purpose of our hackweeks, we define a learning community as a group of individuals who, motivated by an inherent curiosity and commitment to seeking the truth, freely choose to work together on something they care about.
