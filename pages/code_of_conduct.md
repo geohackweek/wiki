@@ -4,20 +4,26 @@ sidebar: mydoc_sidebar
 permalink: code_of_conduct.html
 ---
 
-Geohackweek is dedicated to providing a harassment-free learning experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the organizers. 
+The organizers of this event are dedicated to providing a harassment-free learning experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, ethnicity, age or religion. Hackweek volunteers and organizers will step up to address harassment of participants and/or presenters in any form if we are direct witnesses. 
 
-Harassment includes, but is not limited to: 
-* Verbal comments that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion.
+Harassment includes, but is not limited to:
+* Verbal comments that discriminate on the basis of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, ethnicity, age, religion
 * Sexual images in public spaces
 * Deliberate intimidation, stalking, or following
 * Harassing photography or recording
 * Sustained disruption of talks or other events
 * Inappropriate physical contact
 * Unwelcome sexual attention
-* Advocating for, or encouraging, any of the above behaviour
+* Advocating for, or encouraging, any of the above behavior
 
-Participants asked to stop any harassing behavior are expected to comply immediately. If a participant engages in harassing behaviour, the organisers retain the right to take any actions to keep the event a welcoming environment for all participants. This includes warning the offender or expulsion from Geohackweek with no refund. 
+We expect participants to act in ways that support a learning community at all event venues and event-related social activities. We expect you to support collaboration and learning while visiting University of Washington's many communities of practice. Participants asked to stop any harassing behavior are expected to comply immediately. Failure to comply may result in the participant being expelled from the event without refund at the discretion of the organizers.
 
-Geohackweek organisers may take action to redress anything designed to, or with the clear impact of, disrupting the event or making the environment hostile for any participants. We expect participants to follow these rules at all the event venues and event-related social activities. 
+Ways to provide feedback and insights or address unethical or unprofessional behavior at our event:
 
-Harassment and other code of conduct violations reduce the value of Geohackweek for everyone. If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible to one of the organizers in person or via email (Catherine Kuhn at <a href="mailto:ckuhn@uw.edu">ckuhn@uw.edu</a>, Anthony Arendt at <a href="mailto:arendta@uw.edu">arendta@uw.edu</a>, or Rachael Murray at <a href="mailto:rlmurray@uw.edu">rlmurray@uw.edu</a>). Anonymous reports can also be made [here](https://geohackweek.wufoo.com/forms/z19uzh4603se1lc/).
+If you feel comfortable contacting someone associated with our event, you may speak with one of the event organizers in person, send an e-mail to geohack@uw.edu, or contact an organizer on a private Slack channel.
+
+If you have experienced or observed harassment, unethical or unprofessional behavior as described above (a violation of this code of conduct) and want to talk to someone not directly associated with our event about it, choose from these specialists below:
+
+* Contact the Office of the Ombud, 206-543-6028, ombuds@uw.edu, www.uw.edu/ombud. For individuals who are uncertain about whether they want to pursue a formal complaint but would like to speak to someone about unethical or unprofessional behavior or some other challenging situations, the Ombud office provides a confidential, informal, and neutral resource for you. They can assist you with determining what, if any, course of action you would like to pursue and to navigate the different resources on campus.
+* Speak up about discrimination to the University Complaint Investigation and Resolution Office (UCIRO), 206- 616-2028, uciro@uw.edu. Staff are available if you would like to file a formal complaint regarding discrimination.
+* Speak up about sexual misconduct to the Title IX Office, 206-616-5334, tixinv@uw.edu, https://www.washington.edu/compliance/tixio/. Staff are available if you would like to file a formal complaint regarding sexual misconduct.
