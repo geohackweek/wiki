@@ -6,7 +6,7 @@ permalink: project_guidelines.html
 
 ## Overview
 
-Data science projects are becoming increasingly complex, and new tools are needed to manage contributions from different individuals and teams. At this hackweek we would like to introduce you to project management tools built in to GitHub. We invite you to use these tools during our event for your projects, and hopefully continue to contribute to this collaborative work after the event is over. Projects will be a collaborative effort to collectively advance a complex research question, while meeting individual learning goals. Each project group will be composed of several participants (optimal size is usually 4-7 people) sharing a common interest in advancing a well-defined data science challenge. Each group will be assigned a lead Data Scientist and a lead Project Scientist, whose roles and responsibilities are defined belo
+Data science projects are becoming increasingly complex, and new tools are needed to manage contributions from different individuals and teams. At this hackweek we would like to introduce you to project management tools built in to GitHub. We invite you to use these tools during our event for your projects, and hopefully continue to contribute to this collaborative work after the event is over. Projects will be a collaborative effort to collectively advance a complex research question, while meeting individual learning goals. Each project group will be composed of several participants (optimal size is usually 4-7 people) sharing a common interest in advancing a well-defined data science challenge. Each group will be assigned a lead Data Scientist and a lead Project Scientist, whose roles and responsibilities are defined below.
 
 ## Purpose of the projects:
 
